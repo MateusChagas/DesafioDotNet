@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\CleanArchitecture.WebApi-master\\Domain\\Domain.csproj": {}
+    "C:\\Users\\mateu\\OneDrive\\Desktop\\DesafioDotNet\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\CleanArchitecture.WebApi-master\\Domain\\Domain.csproj": {
+    "C:\\Users\\mateu\\OneDrive\\Desktop\\DesafioDotNet\\Domain\\Domain.csproj": {
       "version": "1.1.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\CleanArchitecture.WebApi-master\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mateu\\OneDrive\\Desktop\\DesafioDotNet\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Dev\\CleanArchitecture.WebApi-master\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\mateu\\OneDrive\\Desktop\\DesafioDotNet\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\CleanArchitecture.WebApi-master\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\mateu\\OneDrive\\Desktop\\DesafioDotNet\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",

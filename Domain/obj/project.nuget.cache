@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y5kzhS5t8U1vwaUrGjfPZPX7+IdYcUTjCofzz8NbKCgfAR2+LLXJ2FGbjRSDtee4fGBSKEKSTln8HckSQl9YEw==",
+  "dgSpecHash": "2cys+aMlLUNpk0IJbG3nNQu7BfcjctYIXIq1fQ3gsePVkXiJXSnDvT4BD/VgjoG3oA7OkPwy+nMZQUxdgSQs4g==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\CleanArchitecture.WebApi-master\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\mateu\\OneDrive\\Desktop\\DesafioDotNet\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mateu\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
