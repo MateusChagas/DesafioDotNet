@@ -18,8 +18,8 @@ namespace Infrastructure.Identity.Seeds
             {
                 UserName = "basicuser",
                 Email = "basicuser@gmail.com",
-                FirstName = "John",
-                LastName = "Doe",
+                PrimeiroNome = "John",
+                UltimoNome = "Doe",
                 EmailConfirmed = true,
                 PhoneNumberConfirmed = true
             };

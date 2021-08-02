@@ -7,3 +7,12 @@ C:\Dev\CleanArchitecture.WebApi-master\Domain\obj\Debug\netstandard2.1\Domain.As
 C:\Dev\CleanArchitecture.WebApi-master\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
 C:\Dev\CleanArchitecture.WebApi-master\Domain\obj\Debug\netstandard2.1\Domain.dll
 C:\Dev\CleanArchitecture.WebApi-master\Domain\obj\Debug\netstandard2.1\Domain.pdb
+C:\Users\mateu\OneDrive\Desktop\DesafioDotNet\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\mateu\OneDrive\Desktop\DesafioDotNet\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\mateu\OneDrive\Desktop\DesafioDotNet\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\mateu\OneDrive\Desktop\DesafioDotNet\Domain\obj\Debug\netstandard2.1\Domain.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Desktop\DesafioDotNet\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Desktop\DesafioDotNet\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Desktop\DesafioDotNet\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Desktop\DesafioDotNet\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\mateu\OneDrive\Desktop\DesafioDotNet\Domain\obj\Debug\netstandard2.1\Domain.pdb

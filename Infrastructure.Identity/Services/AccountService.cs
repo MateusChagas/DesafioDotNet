@@ -89,8 +89,8 @@ namespace Infrastructure.Identity.Services
             var user = new ApplicationUser
             {
                 Email = request.Email,
-                FirstName = request.FirstName,
-                LastName = request.LastName,
+                PrimeiroNome = request.FirstName,
+                UltimoNome = request.LastName,
                 UserName = request.UserName
             };
             var userWithSameEmail = await _userManager.FindByEmailAsync(request.Email);
