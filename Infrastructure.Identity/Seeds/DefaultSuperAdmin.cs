@@ -19,7 +19,7 @@ namespace Infrastructure.Identity.Seeds
             var defaultUser = new ApplicationUser
             {
                 UserName = "superadmin",
-                Email = "superadmin@gmail.com",
+                Email = "superadmin@gmail.com", 
                 PrimeiroNome = "Mukesh",
                 UltimoNome = "Murugan",
                 EmailConfirmed = true,
